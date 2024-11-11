@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ouassima EL YAKOUBI</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer. Currently enhancing my skills through Scrimba's Frontend Career Path to strengthen my expertise in HTML, CSS, JavaScript, and React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouassimaelyakoubi&label=Profile%20views&color=0e75b6&style=flat" alt="ouassimaelyakoubi" /> </p>
 
