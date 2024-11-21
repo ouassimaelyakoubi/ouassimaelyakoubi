@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouassimaelyakoubi&label=Profile%20views&color=0e75b6&style=flat" alt="ouassimaelyakoubi" /> </p>
 
-- 🔭 I’m currently working on [oldagram mini application](https://github.com/ouassimaELYAKOUBI/oldagram-app-scrimba)
+- 🔭 I’m currently working on [my portfolio website](https://github.com/ouassimaelyakoubi/react-js-portfolio)
 
 - 🌱 I’m currently learning **Scrimba's Frontend career path certificate**
 
