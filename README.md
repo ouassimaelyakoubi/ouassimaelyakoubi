@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Scrimba's Frontend career path certificate**
 
-- 👨‍💻 All of my projects are available at [ouassima-react-portfolio.netlify.app](ouassima-react-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [ouassima-react-portfolio.netlify.app](https://ouassima-react-portfolio.netlify.app)
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
