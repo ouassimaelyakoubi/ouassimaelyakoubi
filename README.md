@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [AI Travel ChatBot in Tour Trek](https://github.com/ridabensalem/tour-trek)
 
+- 🌱 I just finish working on [My blog](https://github.com/ouassimaelyakoubi/my-learning-journal-blog)
+
 - 🌱 I’m currently learning **Scrimba's Frontend career path certificate**
 
 - 👨‍💻 All of my projects are available at [ouassima-react-portfolio.netlify.app](https://ouassima-react-portfolio.netlify.app)
